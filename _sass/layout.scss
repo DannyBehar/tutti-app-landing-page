@@ -380,17 +380,11 @@ nav > ul li a:active {
 
 .iphonePreview {
 	grid-area: p;
-	background-image: url($device-color);
-	background-size: 400px auto;
-	background-repeat: no-repeat;
-	margin-top: 68px;
 }
 
 .iphoneScreen {
-	width: 349px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
+	width: 512px;
+	margin-left: -115px;
 	margin-top: 23px;
 }
 
@@ -415,8 +409,8 @@ nav > ul li a:active {
 	}
 
 	.iphoneScreen {
-		width: 322px;
-		margin-left: 24px;
+		width: 470px;
+		margin-left: -115px;
 		margin-top: 22px;
 	}
 
@@ -446,10 +440,8 @@ nav > ul li a:active {
 	}
 
 	.iphoneScreen {
-		width: 226px;
-		height: 488px;
-		-webkit-clip-path: url(#screenMask);
-		clip-path: url(#screenMask);
+		width: 332px;
+		height: 443px;
 		margin: 0px;
 		margin-top: 17px;
 	}
