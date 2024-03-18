@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-March 10th 2024
+March 18th 2024
 
 # Tutti Privacy Policy
 
@@ -17,7 +17,7 @@ PDF documents that are imported into the Tutti app will be stored in the the fil
 
 ### **Metadata**
 
-Tutti stores metadata for things like related to Tags, Setlists, score annotations, user preferences, and any other metadata that the app needs to remember between sessions.
+Tutti stores metadata for things like tags, setlists, score annotations, user preferences, and any other metadata that the app needs to remember between sessions.
 
 ### **Questions?**
 
