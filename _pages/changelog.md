@@ -8,6 +8,19 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 1.1**
+#### **Theme Controls**
+- Conveniently adjust your device brightness right in the reader
+- Toggle on or off auto-lock while in the reader
+- New sheet reader theme mode: Set your reader to light, Sepia, or inverted (Dark) 
+
+#### **Reader Improvements**
+- Swipe left or right to jump to the bottom or top of a page when reading in landscape orientation
+- Improved animation when opening and closing a score
+
+#### **Performance Improvements**
+- Page turning responsiveness and animations are now much smoother especially on older iPad hardware
+
 ### `Initial Release`
 # **Version 1.0**
 Tutti makes it's debut on the Apple App Store!
