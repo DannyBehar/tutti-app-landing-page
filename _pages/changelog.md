@@ -8,6 +8,33 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 2.1**
+
+#### **Bookmarks Support**
+- Bookmark sections within a score to easily jump to the right page
+- Keep track of areas you need to practice by bookmarking practice items within a score
+
+### **AirTurn Page Turning Devices**
+- You can now connect AirTurn bluetooth page turning pedals to assist with turning pages hands free!
+
+### **Redesigned Reader Toolbars**
+- The reader toolbar has been redesigned
+- The annotation toolbar can now be placed in the corner of the reader in a minimized state allowing you to annotate scores with minimal obstruction
+
+### **Hover Support**
+- Hover support has been added for compatible Apple Pencils within the reader
+
+### **Other Improvements**
+- The Tutti reader will now remember and take you back to the page you were last viewing in a score (only within the same app session)
+- Reduced loading times for large scores
+- The page turning animation is now faster and snappier
+
+### **Bug Fixes**
+- Fixed an issue in which two folders with the same name would have their score items mixed up
+- Fixed an issue which could occasionally cause the app to crash when importing a score
+- Fixed an issue that prevented users from reordering pen or marker colors when the toolbar was docked on the leading or trailing edge of the reader
+- Removed brightness and auto dimming controls when running the app on the Mac or Vision Pro
+
 # **Version 2.0**
 #### **Tutti Plus**
 - Introducing Tutti Plus: A one time purchase to import an unlimited amount of scores
