@@ -14,6 +14,7 @@ include_in_header: true
 - Minimize the tuner to the corners of your music to stay informed as you play!
 - Display the tuner in your preferred instrumental transposition
 - Adjust the base frequency offset from A 440 Hz
+
 #### **Other Changes**
 - You can now pin the annotation toolbar to the bottom edge of the reader
 
