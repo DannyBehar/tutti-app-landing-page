@@ -8,8 +8,16 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version 2.1**
+# **Version 2.2**
+#### **INSTRUMENTAL TUNER**
+- The reader now comes with an integrated tuner that floats directly over your music
+- Minimize the tuner to the corners of your music to stay informed as you play!
+- Display the tuner in your preferred instrumental transposition
+- Adjust the base frequency offset from A 440 Hz
+#### **Other Changes**
+- You can now pin the annotation toolbar to the bottom edge of the reader
 
+# **Version 2.1**
 #### **Bookmarks Support**
 - Bookmark sections within a score to easily jump to the right page
 - Keep track of areas you need to practice by bookmarking practice items within a score
