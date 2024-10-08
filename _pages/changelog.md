@@ -9,7 +9,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 2.2**
-#### **INSTRUMENTAL TUNER**
+#### **Instrumental Tuner**
 - The reader now comes with an integrated tuner that floats directly over your music
 - Minimize the tuner to the corners of your music to stay informed as you play!
 - Display the tuner in your preferred instrumental transposition
