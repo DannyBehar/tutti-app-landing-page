@@ -44,9 +44,9 @@ features                                  :
     description                           : Swipe or scrub through your scores using intuitive gestures.
     fontawesome_icon_name                 : hand-pointer
 
-  - title                                 : Tags
-    description                           : Organize your sheet music into collections with Tags.
-    fontawesome_icon_name                 : tag
+  - title                                 : Folders
+    description                           : Organize your sheet music into collections with Folders.
+    fontawesome_icon_name                 : folder
 
   - title                                 : Setlists
     description                           : Build and manage setlists for your next concert or recital using the scores in your library.
@@ -66,14 +66,14 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/tutti-website-header-image.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#7DB2FF"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#0050A4"
+link_color                                : "#0068FE"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -82,7 +82,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#0068FE"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
