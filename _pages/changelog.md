@@ -9,7 +9,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 2.4**
-#### **METRONOME**
+#### **Metronome**
 
 Introducing the Tutti metronome, the newest music tool available right alongside your scores
 
@@ -19,19 +19,19 @@ Introducing the Tutti metronome, the newest music tool available right alongside
 - Works with bluetooth headphones
 - Collapse or pin the metronome to the corners of your score while you are playing your music
 
-#### **NEW APP ICON**
+#### **New App Icon**
 - Tutti has a brand new icon
 - There are also dark and tinted variations that can be configured on your Home Screen
 
-#### **NEW LANGUAGE**
+#### **New Language**
 - ¡Tutti ya está disponible en español!
 
-#### **OTHER IMPROVEMENTS**
+#### **Other Improvements**
 - When adding metadata to your scores like composer or arranger, Tutti will now show you suggestions (based on values you have previously entered) and filter them as you type!
 - Tuner and metronome music tools now have a collapsed mode so that you can still interact with the tools without obstructing your music
 
 # **Version 2.3**
-#### **LIBRARY IMPROVEMENTS**
+#### **Library Improvements**
 - Larger score previews for list and grid modes
 - Page length indicators now appear for each score
 - Practice indicators now appear for each score, showing the number of practice items
@@ -39,28 +39,28 @@ Introducing the Tutti metronome, the newest music tool available right alongside
 - Filter and sort by score labels like Film, Arranger, Game, and Composer with the new and improved sorting picker
 - Grid view has been improved to better showcase labels
 
-#### **READER IMPROVEMENTS**
+#### **Reader Improvements**
 - A new carousel page turning style
 - New transition animations for the annotation toolbar
 - The scrubber control’s design has been tweaked to be easier to tap and drag
 - Toolbar buttons within the reader have been moved to the trailing edge
 
-#### **SETLIST IMPROVEMENTS**
+#### **Setlist Improvements**
 - Add all scores from the library or from a specific folder to your setlist
 - Remove all scores from a setlist
 - Preview a score by tapping and holding on an individual score
 - Rename or delete a setlist within the Manage Setlist screen
 
-#### **BLUETOOTH PAGE TURNERS**
+#### **Bluetooth Page Turners**
 - Support for keyboard based bluetooth page turners
 - Up, Down, Left, Right, Space, Enter, pageUp, pageDown commands are supported for page turning
 
-#### **OTHER CHANGES**
+#### **Other Changes**
 - A new app accent color
 - The zoom transition is now better supported when navigating across a setlist
 - Tutti will now occasionally ask for an app review :D
 
-#### **BUG FIXES**
+#### **Bug Fixes**
 - Fix issue in which the Apple Pencil Squeeze menu could appear at the top left edge of the screen
 - Fix issue in which certain icons would not appear for users running iPadOS 16
 - UI fixes to stop icons from shaking after interacting with certain components
